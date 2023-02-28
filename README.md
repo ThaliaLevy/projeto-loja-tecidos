@@ -1,7 +1,7 @@
 <h3>Projeto Loja de Tecidos</h3>
 O projeto visa simular uma loja de tecidos, onde é possível visualizar os tecidos disponíveis para compra, calcular o valor total a partir do <br>
 preço x metro de interesse, contém login e área do usuário com suas informações e tela de agradecimento pós-compra. <br>
-Há também criação de variáveis no CSS e responsividade.
+Há também criação de variáveis no CSS e responsividade. <br><br>
 
 Projeto do módulo 02 do curso de formação fullstack da Step Computer Academy. <br>
 Repositório com exercícios deste módulo: https://github.com/ThaliaLevy/step-computer-academy-modulo02/tree/master-branch
